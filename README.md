@@ -36,7 +36,7 @@ The app allows users to input values for each of the features and get an instant
 
 ```bash
 ├── README.md
-├── real_estate.csv           #Real Estate data  
+├── Real_Estate.csv           #Real Estate data  
 ├── model.pkl                 # Trained linear regression model               
 ├── notebook.ipynb           # Data exploration and training steps
               
